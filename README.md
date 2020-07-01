@@ -13,8 +13,12 @@ python dictionary.py future
 
 Or set it to a custom alias in your aliasrc file.
 
-## Getting help
+## Help
 
 ```
 python dictionary.py --help
 ```
+
+## Preview
+![Image of Preview1](preview/preview1.png)
+![Image of Preview2](preview/preview2.png)
